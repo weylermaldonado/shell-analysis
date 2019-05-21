@@ -1,0 +1,25 @@
+{"_id":{"$oid":"5cd0f6d4d900076912c30e02"},"app":"python","frecuency":0}
+{"_id":{"$oid":"5cd0f6edd900076912c30e0a"},"app":"python3","frecuency":0}
+{"_id":{"$oid":"5cd0f6fcd900076912c30e0f"},"app":"npm install","frecuency":0}
+{"_id":{"$oid":"5cd0f706d900076912c30e14"},"app":"npm run","frecuency":495}
+{"_id":{"$oid":"5cd0f711d900076912c30e17"},"app":"git","frecuency":983}
+{"_id":{"$oid":"5cd0f71dd900076912c30e1b"},"app":"code","frecuency":384}
+{"_id":{"$oid":"5cd0f72ed900076912c30e1e"},"app":"firefox","frecuency":21}
+{"_id":{"$oid":"5cd0f73ad900076912c30e25"},"app":"conda","frecuency":47}
+{"_id":{"$oid":"5cd0f74ad900076912c30e29"},"app":"chromium","frecuency":16}
+{"_id":{"$oid":"5cd0f756d900076912c30e2c"},"app":"typora","frecuency":4}
+{"_id":{"$oid":"5cd0f761d900076912c30e2f"},"app":"nodemon","frecuency":343}
+{"_id":{"$oid":"5cd0f772d900076912c30e35"},"app":"node","frecuency":631}
+{"_id":{"$oid":"5cd0f787d900076912c30e3b"},"app":"dropbox","frecuency":12}
+{"_id":{"$oid":"5cd0f7a0d900076912c30e41"},"app":"jupyter","frecuency":10}
+{"_id":{"$oid":"5cd0f7aed900076912c30e46"},"app":"subl","frecuency":250}
+{"_id":{"$oid":"5cd0f7bad900076912c30e4b"},"app":"atom","frecuency":37}
+{"_id":{"$oid":"5cd0f7c8d900076912c30e4f"},"app":"gedit","frecuency":38}
+{"_id":{"$oid":"5cd0f7d3d900076912c30e52"},"app":"vim","frecuency":233}
+{"_id":{"$oid":"5cd0f7dcd900076912c30e55"},"app":"nano","frecuency":72}
+{"_id":{"$oid":"5cd0f7e6d900076912c30e5a"},"app":"php","frecuency":23}
+{"_id":{"$oid":"5cd0f7f1d900076912c30e5f"},"app":"mongo","frecuency":32}
+{"_id":{"$oid":"5cd0f812d900076912c30e65"},"app":"ranger","frecuency":9}
+{"_id":{"$oid":"5cd0f846d900076912c30e71"},"app":"apps","frecuency":0}
+{"_id":{"$oid":"5cd0f85cd900076912c30e76"},"app":"java","frecuency":84}
+{"_id":{"$oid":"5cd0f896d900076912c30e83"},"app":"mysql","frecuency":128}

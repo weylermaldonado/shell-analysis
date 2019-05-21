@@ -1,0 +1,25 @@
+{"_id":{"$oid":"5cd09b26cac62e9d55a50498"},"command":"mkdir","frecuency":65}
+{"_id":{"$oid":"5cd0a144cac62e9d55a59e0c"},"command":"ls","frecuency":513}
+{"_id":{"$oid":"5cd0a159cac62e9d55a59e12"},"command":"touch","frecuency":37}
+{"_id":{"$oid":"5cd0a174cac62e9d55a59e17"},"command":"cd","frecuency":1531}
+{"_id":{"$oid":"5cd0a18dcac62e9d55a59e22"},"command":"sudo apt-get","frecuency":26}
+{"_id":{"$oid":"5cd0a19ecac62e9d55a59e26"},"command":"sudo apt-get install","frecuency":14}
+{"_id":{"$oid":"5cd0a1b8cac62e9d55a59e2f"},"command":"cp","frecuency":52}
+{"_id":{"$oid":"5cd0a1c8cac62e9d55a59e35"},"command":"rm","frecuency":230}
+{"_id":{"$oid":"5cd0a1f5cac62e9d55a59e3f"},"command":"rm -R","frecuency":26}
+{"_id":{"$oid":"5cd0a219cac62e9d55a59e48"},"command":"mv","frecuency":34}
+{"_id":{"$oid":"5cd0a244cac62e9d55a59e54"},"command":"grep","frecuency":29}
+{"_id":{"$oid":"5cd0a265cac62e9d55a59e5a"},"command":"echo","frecuency":57}
+{"_id":{"$oid":"5cd0a278cac62e9d55a59e65"},"command":"cat","frecuency":166}
+{"_id":{"$oid":"5cd0a28dcac62e9d55a59e69"},"command":"ssh","frecuency":66}
+{"_id":{"$oid":"5cd0a2a3cac62e9d55a59e70"},"command":"which","frecuency":27}
+{"_id":{"$oid":"5cd0a2bacac62e9d55a59e79"},"command":"sh","frecuency":601}
+{"_id":{"$oid":"5cd0a2cecac62e9d55a59e7d"},"command":"tar -zxvf","frecuency":2}
+{"_id":{"$oid":"5cd0a2e0cac62e9d55a59e83"},"command":"sudo apt install","frecuency":33}
+{"_id":{"$oid":"5cd0a2f8cac62e9d55a59e8b"},"command":"sudo chown -R","frecuency":6}
+{"_id":{"$oid":"5cd0a30ecac62e9d55a59e8f"},"command":"sudo apt-get purge","frecuency":1}
+{"_id":{"$oid":"5cd0a322cac62e9d55a59e97"},"command":"sudo remove","frecuency":0}
+{"_id":{"$oid":"5cd0a336cac62e9d55a59e9d"},"command":"sudo apt-get remove","frecuency":6}
+{"_id":{"$oid":"5cd0a34acac62e9d55a59ea1"},"command":"sudo sysctl","frecuency":1}
+{"_id":{"$oid":"5cd0a363cac62e9d55a59eac"},"command":"sudo update-alternatives","frecuency":12}
+{"_id":{"$oid":"5cd0a396cac62e9d55a59eb8"},"command":"netstat","frecuency":5}
